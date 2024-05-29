@@ -1,5 +1,5 @@
 daysUntilLock: 45
-setLockReason: false
+setLockReason: run
 only: issues
 lockComment: >
   This issue has been automatically locked since there has not been
